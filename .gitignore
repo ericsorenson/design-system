@@ -61,3 +61,5 @@ packages/docs/static/storybook
 packages/docs/static/images
 packages/docs/static/fonts
 packages/docs/data
+
+.yarn

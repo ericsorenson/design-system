@@ -46,9 +46,9 @@
   ],
   "dependencies": {
     "@cmsgov/design-system": "8.0.2",
-    "@types/js-cookie": "^3.0.2",
-    "@types/react": "^18.2.6",
-    "@types/react-dom": "^17.0.10",
+    "@types/js-cookie": "^3.0.5",
+    "@types/react": "^18.2.33",
+    "@types/react-dom": "^18.2.14",
     "classnames": "^2.2.5"
   }
 }
